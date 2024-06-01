@@ -78,7 +78,7 @@ class WiremockDemoApplicationTests {
 
   @Test
   void contextLoads() {
-    assertEquals("2.7.18", SpringBootVersion.getVersion());
+    assertEquals("3.2.6", SpringBootVersion.getVersion());
   }
 
 }
